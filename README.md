@@ -10,4 +10,6 @@ To train AraGPT-2 on sentiment analysis, and topic modeling apply:
 - NMF (Non-negative Matrix Factorization)
 - STM (Structured Topic Modeling)
 
-
+# ArabERT or Camel-BERT are the best fit for this project as they are concerned with Arabic-speaking stakeholders and users.
+# Implementing NMF for Tokenizing and Predicting Topics.
+# Weaviate for Data Structure (Option) MongoDB alternative.
