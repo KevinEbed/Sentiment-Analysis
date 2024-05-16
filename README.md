@@ -5,9 +5,9 @@ NilULex v0.27: dataset contains Egyptian Arabic and Modern Standard Arabic senti
 
 Dataset Description:
           Egyptian          MSA
-count  5941.000000  5941.000000
-mean      0.448578     0.551422
-std       0.497391     0.497391
+count     5941.0            5941.0
+mean      0.4485            0.5514
+std       0.4973            0.4973
 
 Number of Rows in the Dataset: 5941
 
@@ -16,11 +16,12 @@ negative        3692
 positive        1281
 compound_neg     553
 compound_pos     415
+
 - Percentage:
-negative        62.144420
-positive        21.562027
-compound_neg     9.308197
-compound_pos     6.985356
+negative        62.14
+positive        21.56
+compound_neg     9.308
+compound_pos     6.985
 
 El-Beltagy, S. R. (2016, May). Nileulex: A phrase and word level sentiment lexicon for egyptian and modern standard arabic. In Proceedings of the Tenth International Conference on Language Resources and Evaluation (LREC'16) (pp. 2900-2905).
 
